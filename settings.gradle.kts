@@ -1,1 +1,1 @@
-rootProject.name = "fertilizer"
+rootProject.name = "thymeleaf_comptus"

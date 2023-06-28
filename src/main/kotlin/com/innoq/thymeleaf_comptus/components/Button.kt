@@ -1,4 +1,4 @@
-package com.stewonello.fertilizer.components
+package com.innoq.component_challenge.thymeleaf_comptus.components
 
 import com.innoq.comptus.core.Component
 import kotlin.jvm.optionals.getOrNull

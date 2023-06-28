@@ -7,7 +7,7 @@ plugins {
 	kotlin("plugin.spring") version "1.8.22"
 }
 
-group = "com.stewonello"
+group = "com.innoq.component_challenge"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
 

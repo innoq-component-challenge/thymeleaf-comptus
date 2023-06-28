@@ -1,4 +1,4 @@
-# Fertilizer
+# Thymeleaf Component Challenge based upon Comptus
 
 ## Running
 

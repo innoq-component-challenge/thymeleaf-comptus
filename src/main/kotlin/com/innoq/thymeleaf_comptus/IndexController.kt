@@ -1,4 +1,4 @@
-package com.stewonello.fertilizer
+package com.innoq.component_challenge.thymeleaf_comptus
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
